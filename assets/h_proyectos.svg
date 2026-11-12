@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="118" viewBox="0 0 1200 118" role="img" aria-label="Lo que he construido">
+<style>.f{font-family:Geist, Inter, 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif}.m{font-family:'Geist Mono', 'JetBrains Mono', 'Cascadia Code', Consolas, Menlo, monospace}</style>
+<defs><linearGradient id="r" x1="0" x2="1"><stop offset="0" stop-color="#2266ff"/><stop offset="1" stop-color="#2266ff" stop-opacity="0"/></linearGradient>
+<radialGradient id="g" cx="0" cy="0" r="1"><stop offset="0" stop-color="#2266ff" stop-opacity=".28"/><stop offset=".5" stop-color="#2266ff" stop-opacity="0"/></radialGradient>
+<clipPath id="c"><rect width="1200" height="118" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="1200" height="118" fill="#08080a"/><rect width="1200" height="118" fill="url(#g)"/></g>
+<rect x=".5" y=".5" width="1199" height="117" rx="18" fill="none" stroke="#fff" stroke-opacity=".08"/>
+<text x="34" y="38" class="m" font-size="13" letter-spacing="2.5" fill="#5b93ff">01 — PROYECTOS</text>
+<text x="32" y="76" class="f" font-size="32" font-weight="800" letter-spacing="-1" fill="#ffffff">Lo que he construido</text>
+<text x="34" y="100" class="f" font-size="15.5" fill="#f5f5f7" fill-opacity=".55">Sistemas en uso diario para negocios reales, con Dann Studio.</text>
+<rect x="410" y="64" width="720" height="2" rx="1" fill="url(#r)"/>
+</svg>
