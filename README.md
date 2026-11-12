@@ -33,7 +33,7 @@ Construyo **software a la medida** para negocios que hoy operan con papel, Whats
 <img src="./assets/h_stack.svg" width="100%" alt="02 · Con qué lo construyo">
 
 <p align="center">
-  <img src="./assets/stack.svg" width="100%" alt="Backend: NestJS, Node.js, TypeScript, MongoDB, Prisma. Frontend: Angular, Tailwind. Móvil, IA y bots, infraestructura con Docker y Nginx, y videojuegos con Godot y Blender.">
+  <img src="./assets/stack.svg" width="100%" alt="Backend: NestJS, Node.js, TypeScript, MongoDB, PostgreSQL, Prisma. Frontend: Angular, React, Tailwind. Móvil, IA y bots, despliegue con Docker, Dokploy y Nginx, y videojuegos con Godot y Blender.">
 </p>
 
 <br>
