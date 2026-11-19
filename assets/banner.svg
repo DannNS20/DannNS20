@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Daniel Serrano, desarrollador full-stack y fundador de Dann Studio">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Dann Studio, estudio de desarrollo de Daniel Serrano">
   <defs>
     <style>
       .f { font-family: Geist, Inter, 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif; }
@@ -62,13 +62,13 @@
       <rect width="34" height="34" rx="9" fill="#2266ff"/>
       <path d="M10 9h7.5c5 0 8.5 3.4 8.5 8s-3.5 8-8.5 8H10z" fill="none" stroke="#fff" stroke-width="3" stroke-linejoin="round"/>
     </g>
-    <text x="112" y="85" class="f" font-size="15" font-weight="700" letter-spacing="4.2" fill="#f5f5f7">DANN STUDIO</text>
+    <text x="112" y="85" class="f" font-size="15" font-weight="700" letter-spacing="4.2" fill="#f5f5f7">DANIEL SERRANO</text>
   </g>
 
-  <!-- Nombre y frase -->
-  <text x="62" y="178" class="f" font-size="68" font-weight="800" letter-spacing="-2" fill="#ffffff">Daniel Serrano</text>
+  <!-- Marca y frase -->
+  <text x="62" y="178" class="f" font-size="68" font-weight="800" letter-spacing="-2" fill="#ffffff">Dann Studio</text>
   <text x="64" y="226" class="f" font-size="30" font-weight="700" letter-spacing="-.6" fill="url(#shine)">Software a la medida de tu operación.</text>
-  <text x="65" y="268" class="f" font-size="17" fill="#f5f5f7" fill-opacity=".62">Desarrollador full-stack · Fundador de Dann Studio · Guadalajara, México</text>
+  <text x="65" y="268" class="f" font-size="17" fill="#f5f5f7" fill-opacity=".62">Estudio de desarrollo full-stack · Fundado por Daniel Serrano · Guadalajara, México</text>
 
   <!-- Chips -->
   <g class="f" font-size="14" font-weight="600">
