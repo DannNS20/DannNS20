@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://dann-studio.com">
-    <img src="./assets/banner.svg" width="100%" alt="Daniel Serrano · Software a la medida de tu operación · Dann Studio">
+    <img src="./assets/banner.svg" width="100%" alt="Dann Studio · Software a la medida de tu operación · Daniel Serrano">
   </a>
 </div>
 
